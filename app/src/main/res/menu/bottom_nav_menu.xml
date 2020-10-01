@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_Lexus"
+        android:icon="@drawable/icon_lexus"
+        android:title="@string/title_Lexus" />
+
+    <item
+        android:id="@+id/navigation_Mercedes"
+        android:icon="@drawable/icon_mercedes"
+        android:title="@string/title_Lexus" />
+
+    <item
+        android:id="@+id/navigation_Nissan"
+        android:icon="@drawable/icon_nissan"
+        android:title="@string/title_Nissan" />
+    <item
+        android:id="@+id/navigation_Toyota"
+        android:icon="@drawable/icon_toyota"
+        android:title="@string/title_Toyota" />
+
+</menu>

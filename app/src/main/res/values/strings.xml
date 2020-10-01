@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FourCars</string>
+    <string name="title_Lexus">Lexus</string>
+    <string name="title_Mercedes">Mercedes</string>
+    <string name="title_Nissan">Nissan</string>
+    <string name="title_Toyota">Toyota</string>
+</resources>
